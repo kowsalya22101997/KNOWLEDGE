@@ -6,6 +6,7 @@ public class life {
 System.out.println("A");
 System.out.println("b");
 System.out.println("cs");
+System.out.println("kkk");
 	}
 
 }
